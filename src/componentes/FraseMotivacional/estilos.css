@@ -1,0 +1,19 @@
+
+.frase {
+    background-color: #857ae94b;
+    padding: 2px;
+    border:  3px solid #857ae9dc;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 30px 8px 30px;
+}
+
+.autor{
+    font-size: small;
+    color: rgba(42, 41, 41, 0.815);
+}
+
+.data-postagem{
+    font-size: 0.6rem;
+    color: rgba(158, 158, 158, 0.849);
+}
