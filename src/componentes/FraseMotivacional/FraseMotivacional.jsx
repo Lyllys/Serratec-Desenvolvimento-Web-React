@@ -1,13 +1,14 @@
-import './estilos.css'
+import './estilos.css';
 import Rodape from './Rodape';
+import Card from '../Card/Card';
 
 function FraseMotivacional(props) {
-    return <div className="frase">
+    return <Card>
         <p>
            "{props.frase}"
         </p>
         <Rodape autor={props.autor} criadaEm={props.criadaEm} />
-    </div>
+    </Card>
 
 }
 
