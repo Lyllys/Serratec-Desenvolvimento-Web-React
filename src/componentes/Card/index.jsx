@@ -1,10 +1,10 @@
 import './estilos.css';
-function Card(props){
-  
+const Card = (props)  => {
+
   return <div className="card">
     {props.children}
-   </div>
- 
+  </div>
+
 }
 
 export default Card;

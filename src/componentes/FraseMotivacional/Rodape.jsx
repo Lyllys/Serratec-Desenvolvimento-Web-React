@@ -1,4 +1,4 @@
-function Rodape (props) {
+const Rodape = (props) => {
 
     const opcoes = {
         weekday: 'long',
