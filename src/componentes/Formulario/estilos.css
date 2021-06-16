@@ -28,6 +28,7 @@ label {
 
 
 button {
+    border: solid;
     border-radius:6px;
     border-color: #857ae9dc;
     background-color: white;
